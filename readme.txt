@@ -1,2 +1,1 @@
-test_case_6
-Ensure that reduction requests are being handled appropriately by the allocate_seats() instruction
+Please donot copy the source code as-is without mentioning the author of the code for this project. 
